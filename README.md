@@ -1,2 +1,2 @@
 # CICDtest
-to test the CICD pipeline
+to test the CICD pipeli
